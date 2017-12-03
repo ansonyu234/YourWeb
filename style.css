@@ -41,16 +41,19 @@
   display: inline-block;
 }
 
+
 a {
   display: block;
   color: #fff;
   text-decoration: none;
 }
 
+
 li:hover  {
   border: 1px solid #ff6600;
   background-color: #fff;
 }
+
 
 li:hover a {
   color: #ff6600;
@@ -147,12 +150,7 @@ display: inline-block;
 
 /* 追加屬性 
 
-.item {
-  
-  display: inline-block;
-  margin-bottom: 10px;
-}
-*/
+
 
 
 #contact-me {
